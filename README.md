@@ -1,4 +1,4 @@
-# Projeto Parqute Tecnológico - FATEC
+# Projeto Parque Tecnológico - FATEC
 Projeto e protótipo para o sistema de gerenciamento e controle de perdas em Sistemas de Distribuição de Água com a detecção automática de vazamentos na rede de distribuição através do uso de inteligência artificial.
 
 ## Objetivo geral
